@@ -1,0 +1,7 @@
+D:\Corporate\Vinsys\JK Tech\C#\Demos\Chapter7-Repo\StructureAndEnum\StructureAndEnum\bin\Debug\StructureAndEnum.exe.config
+D:\Corporate\Vinsys\JK Tech\C#\Demos\Chapter7-Repo\StructureAndEnum\StructureAndEnum\bin\Debug\StructureAndEnum.exe
+D:\Corporate\Vinsys\JK Tech\C#\Demos\Chapter7-Repo\StructureAndEnum\StructureAndEnum\bin\Debug\StructureAndEnum.pdb
+D:\Corporate\Vinsys\JK Tech\C#\Demos\Chapter7-Repo\StructureAndEnum\StructureAndEnum\obj\Debug\StructureAndEnum.csprojAssemblyReference.cache
+D:\Corporate\Vinsys\JK Tech\C#\Demos\Chapter7-Repo\StructureAndEnum\StructureAndEnum\obj\Debug\StructureAndEnum.csproj.CoreCompileInputs.cache
+D:\Corporate\Vinsys\JK Tech\C#\Demos\Chapter7-Repo\StructureAndEnum\StructureAndEnum\obj\Debug\StructureAndEnum.exe
+D:\Corporate\Vinsys\JK Tech\C#\Demos\Chapter7-Repo\StructureAndEnum\StructureAndEnum\obj\Debug\StructureAndEnum.pdb
